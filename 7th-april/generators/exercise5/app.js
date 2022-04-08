@@ -35,6 +35,6 @@ function logData(limit, args) {
   }
 }
 
-// logData(7, naturalNum());
-// logData(3, ["a", "b", "c", "d", "e", "f"]);
-// logData(7, powerSeries(3, 2));
+logData(7, naturalNum());
+logData(3, ["a", "b", "c", "d", "e", "f"]);
+logData(7, powerSeries(3, 2));
